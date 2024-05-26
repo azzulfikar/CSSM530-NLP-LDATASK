@@ -12,7 +12,9 @@ This study embarks on a journey into the public's perceptions of the Turkish edu
 ## Documentation
 
 Abstract
+
 Introduction
+
 Method and Data
     Data
     Model
