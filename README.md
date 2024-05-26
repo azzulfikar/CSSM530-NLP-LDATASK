@@ -16,12 +16,19 @@ Abstract
 Introduction
 
 Method and Data
+
     Data
+    
     Model
+    
     Pre-processing
+    
     Model Training
+    
     Model Evaluation
+    
     Model Validation: Limitations
+    
     
 Results
 
