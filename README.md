@@ -22,13 +22,24 @@ Method and Data
     Model Training
     Model Evaluation
     Model Validation: Limitations
+    
 Results
+
 Discussion
+
 Conclusion
+
 Appendix
+
     Topic Labeling for LDA Model
+    
     Original Versions of the Outputs
+    
         System
+        
         Problems
+        
         Solutions
+        
 References
+
